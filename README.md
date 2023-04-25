@@ -1,0 +1,1 @@
+## Simple reverse proxy nginx set up for kubernetes
